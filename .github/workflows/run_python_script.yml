@@ -19,4 +19,4 @@ jobs:
       with:
         python-version: '3.x'
     - name: Run Script.py
-      run: script.py
+      run: py script.py
